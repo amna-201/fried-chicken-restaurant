@@ -1,0 +1,23 @@
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 390px;
+    border: 5px solid rgba(88, 4, 4, 0.76) ;
+    background-color: rgb(8, 1, 1);
+}
+input{
+    height: 10%;
+    width: 80%;
+    border: 2px dotted yellow;
+    border-radius: 25px;
+}
+button{
+    border-radius: 20px;
+    width: 30%;
+    font-size: large;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
